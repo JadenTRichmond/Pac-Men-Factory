@@ -1,5 +1,7 @@
 # Pac-Men-Factory
 Making random Pac-Men with random routes with the click of a button, One button allows you to spawn in randomly placed Pac-Men, and another button lets you start their movement based on randomly generated speeds and directions formed in the JavaScript.
+
+<a href="https://github.com/JadenTRichmond/Pac-Men-Factory">GitHub Full Repository</a>
 ## How To Run
 Download all files, put in one folder, run pac-men-factory.html on a browser, refresh page and use buttons to run.
 ## Future Improvements
